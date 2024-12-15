@@ -1,57 +1,44 @@
-Master League 🚀
-Welcome to the Master League repository! This platform provides real-time football information, designed for users to check live match results, view updated rankings, and obtain detailed data about teams from their favorite leagues.
+# Master League 🚀
 
-Contents 📚
-Features: Overview of the platform's capabilities.
-Technologies Used: A list of tools and frameworks utilized.
-Installation: Steps to set up the project.
-Usage: Guidelines for using the platform.
-Screenshots: Visual examples of the interface.
-Contributing: How to contribute to this project.
-Features 🌟
-Live Match Results: Get real-time updates for ongoing matches.
-Rankings: View updated league standings.
-Team Details: Access detailed information about teams in various leagues.
-User-Friendly Interface: Easy-to-navigate design for football enthusiasts.
-Global Coverage: Follow leagues and teams from around the world.
-Technologies Used ⚙️
-Android Studio Java
+Welcome to the **Master League** repository! This platform provides real-time football information, designed for users to check live match results, view updated rankings, and obtain detailed data about teams from their favorite leagues.
 
-Installation 🛠️
-Clone the repository:
-git clone https://github.com/yourusername/MasterLeague.git
-Open the project in Android Studio.
-Sync the project with Gradle files.
-Build and run the project on an emulator or physical device.
-Usage 💻
-Launch the application and explore the following features:
+## Contents 📚
 
-Live Scores: Stay updated with ongoing matches.
-Rankings: Check the latest league standings.
-Team Stats: Access detailed statistics for your favorite teams.
-Screenshots 🖼️
-Below are some screenshots of the platform:
+- **Features**: Overview of the platform's capabilities.
+- **Technologies Used**: A list of tools and frameworks utilized.
+- **Installation**: Steps to set up the project.
+- **Usage**: Guidelines for using the platform.
+- **Screenshots**: Visual examples of the interface.
+- **Contributing**: How to contribute to this project.
 
-Home Screen: Home Screen
-Match Details: Match Details
-Rankings: Rankings
-Contributing 🤝
-Contributions are welcome! Please follow these steps:
+## Features 🌟
 
-Fork the repository.
-Create a new branch:
-git checkout -b feature-name
-Commit your changes:
-git commit -m "Add a new feature"
-Push to the branch:
-git push origin feature-name
-Submit a pull request.
-License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
+- **Live Match Results**: Get real-time updates for ongoing matches.
+- **Rankings**: View updated league standings.
+- **Team Details**: Access detailed information about teams in various leagues.
+- **User-Friendly Interface**: Easy-to-navigate design for football enthusiasts.
+- **Global Coverage**: Follow leagues and teams from around the world.
 
-Contact 📧
-If you have any questions or suggestions, feel free to contact:
+## Technologies Used ⚙️
 
-Name: Hamza Derouich
-Email: your.email@example.com
-GitHub: HamzaDerouich
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+</p>
+
+## Installation 🛠️
+
+### Prerequisites
+
+1. Install [Android Studio](https://developer.android.com/studio).
+2. Ensure you have the latest version of Java installed.
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/MasterLeague.git
