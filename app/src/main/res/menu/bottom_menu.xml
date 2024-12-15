@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Ligas"
+        android:icon="@drawable/baseline_sports_score_24"
+        android:title="Ligas" />
+
+    <item
+        android:id="@+id/Partidos"
+        android:title="Partidos"
+        android:icon="@drawable/baseline_sports_soccer_24"/>
+
+    <item
+        android:id="@+id/Noticias"
+        android:icon="@drawable/baseline_newspaper_24"
+        android:title="Noticias" />
+
+    <item
+        android:id="@+id/Goleadores"
+        android:title="Goleadores"
+        android:icon="@drawable/baseline_rocket_24" />
+
+    <item
+        android:id="@+id/Salir"
+        android:icon="@drawable/salida"
+        android:title="Salir" />
+</menu>

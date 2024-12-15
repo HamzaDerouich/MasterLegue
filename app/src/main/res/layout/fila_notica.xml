@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginStart="12dp"
+    android:layout_marginEnd="12dp"
+    android:layout_marginVertical="10dp"
+    android:background="@drawable/background_fila">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <!-- Imagen -->
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imageViewLogo"
+            android:layout_width="156dp"
+            android:layout_height="111dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/premier_league"
+            app:shapeAppearance="@drawable/background_header"
+            android:layout_alignParentLeft="true" />
+
+        <!-- Título -->
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/imageViewLogo"
+        android:layout_marginStart="16dp"
+        android:layout_centerVertical="true"
+        android:text="Premier League"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="start|center_vertical"
+        android:maxWidth="250dp"
+        android:ellipsize="end" />
+
+
+
+    </RelativeLayout>
+
+
+
+</androidx.cardview.widget.CardView>
